@@ -1,0 +1,15 @@
+{
+ "creation": "2026-01-01 00:00:00",
+ "docstatus": 0,
+ "doctype": "Page",
+ "idx": 0,
+ "modified": "2026-01-01 00:00:00",
+ "modified_by": "Administrator",
+ "module": "Receipt Reconciler",
+ "name": "receipt-reconciler",
+ "owner": "Administrator",
+ "page_name": "receipt-reconciler",
+ "roles": [{"role": "System Manager"}],
+ "standard": "Yes",
+ "title": "Receipt Reconciler"
+}
